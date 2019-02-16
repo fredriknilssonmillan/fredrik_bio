@@ -1,0 +1,48 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    }    
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    }
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+    }
+ 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold:
+    }
+
+Ul {
+    font-size: 35px;
+    list-style-position: inside;
+    border-style: double;
+    border width: 5px;
+    }
+li{
+    text-align: left;
+    margin-left: 42%;
+}
+    
+.enmarcado {
+    border-style: solid;
+    }
